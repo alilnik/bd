@@ -23,7 +23,7 @@
             app:lottie_autoPlay="true"
             app:lottie_fileName="confetti.json"
             app:lottie_loop="true"
-            app:lottie_speed="0.4"
+            app:lottie_speed="0.6"
             android:scaleType="centerCrop"
 
             app:layout_constraintBottom_toBottomOf="parent"
